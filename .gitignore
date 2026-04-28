@@ -14,3 +14,7 @@ yarn-error.log
 release
 .release
 public/
+.carbon-migration/
+CLAUDE.md
+AGENTS.md
+.bob/
